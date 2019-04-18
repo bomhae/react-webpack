@@ -10,7 +10,7 @@ const config = {
   },
   output: {
     filename: 'static/[name].[hash].js',
-    path : '/oraclexe/htdocs/'
+    path : '/Apache24/htdocs/'
   },
   devtool: 'source-map',
   module: {
